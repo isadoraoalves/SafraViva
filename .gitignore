@@ -1,0 +1,12 @@
+# Arquivos compilados do Java
+bin/
+*.class
+*.jar
+
+# Dados locais de persistência gerados em teste
+*.dat
+
+# Configurações pessoais do VS Code e do Sistema
+.vscode/
+.DS_Store
+Thumbs.db
